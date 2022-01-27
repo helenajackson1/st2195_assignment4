@@ -35,7 +35,7 @@ volume_vector <- function(r) {
 #Run volume_vector(r) and print the volumes of spheres with radius r, r^2, r^3
 volume_vector(r)
 
-#OR this returns l_volumes for the volume_vestor where r=2
+#OR this returns l_volumes for the volume_vector where r=2
 l_volumes <- volume_vector(2)
 volume_vector(r)
 
